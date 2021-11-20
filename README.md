@@ -1,5 +1,6 @@
 # global-impact-iot
 
+### Turma 2TDST
 ### Integrantes
 
 ##### Caio Rocha de Goes Rm: 85013
@@ -11,3 +12,6 @@
 ##### Matheus Eduardo Pereira Rm: 85579
 
 ##### Victor Yafusso Sunahara    Rm: 84095
+
+
+Link do Video Yt: https://www.youtube.com/watch?v=spNhPa62Tp0
